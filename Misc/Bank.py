@@ -1,6 +1,33 @@
 import os
 import time
 
+
+banks = []
+class Customer:
+
+
+class Account:
+
+
+class Transaction:
+
+
+class Bank:
+    def __init__(self,bankName, bankAddress):
+        self.name = bankName
+        self.address = bankAddress
+
+class Program:
+
+
+
+
+
+
+
+
+
+
 accounts = [];
 
 
